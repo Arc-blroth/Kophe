@@ -1,0 +1,2 @@
+% Chapter 2. The Basics of Java
+% Hello World! But what can we actually do in this new world? Today we'll go over some of the basics of Computer Science knowledge that you'll need to continue your Java journey.

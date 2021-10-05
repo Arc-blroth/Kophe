@@ -1,0 +1,6 @@
+[book]
+authors = ["Andrew Kuai"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kophe | Team 8060 Java Workshops"
