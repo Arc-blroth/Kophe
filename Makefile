@@ -21,7 +21,7 @@ endif
 
 # Slides rule
 $(OUT_SLIDES_DIR)/%.pptx: $(SRC_DIR)/%.md
-	$(PANDOC) $< --reference-doc=$(TEMPLATE) -o $@
+	$(PANDOC) $< --slide-level 2 --reference-doc=$(TEMPLATE) -o $@
 
 .PHONY: all clean
 
