@@ -258,7 +258,7 @@ result /= a;
 Another useful operator is the `%` ("rem" or "mod") operator, which finds the **rem**ainder of a division, also called the **mod**ulo:
 
 ```java
-int result = 13 / 2;
+int result = 13 % 2;
 System.out.println(result);
 ```
 
